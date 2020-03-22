@@ -1,0 +1,2 @@
+model_checkpoint_path: "prediction.ckpt"
+all_model_checkpoint_paths: "prediction.ckpt"
